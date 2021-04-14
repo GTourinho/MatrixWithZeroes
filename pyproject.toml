@@ -1,8 +1,8 @@
 [tool.poetry]
-name = "leetcode"
-version = "0.1.0"
-description = ""
-authors = ["Your Name <you@example.com>"]
+name = "MatrixWithZeroes"
+version = "1.0"
+description = "An algorithm that inputs the value 0 for all elements of rows and columns with at least an element of value 0"
+authors = ["Gabriel Tourinho Badaró <gabrieltourinhob@gmail.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.8"
