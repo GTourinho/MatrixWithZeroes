@@ -47,6 +47,7 @@ for column in foundZeroColumns:
     matrix[row][column] = 0
 
 #Print result
+print('Result matrix:')
 for row in matrix:
   for column in range(nColumns):
     print(row[column], end = '')
