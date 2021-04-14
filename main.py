@@ -52,5 +52,3 @@ for row in matrix:
     print(row[column], end = '')
     print(' ', end = '')
   print('')
-
-
