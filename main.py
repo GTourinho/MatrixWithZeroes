@@ -1,7 +1,6 @@
-# Feito por: Gabriel Tourinho Badaró
-# Teste Avaliativo - Processo LexisNexis
-# Escreva um algoritmo para que se um elemento em uma matriz MxN é 0, todos os elementos da linha e coluna deste elemento recebam também o valor 0.
-# Write an algorithm so that if an element in an MxN matrix is 0, all the elements of the row and column of this element are also given the value 0
+# Author: Gabriel Tourinho Badaró
+# Um algoritmo para que se um elemento em uma matriz MxN é 0, todos os elementos da linha e coluna deste elemento recebam também o valor 0.
+# An algorithm that inputs the value 0 for all elements of rows and columns with at least an element of value 0
 
 #Helper functions
 def getmatrix():
